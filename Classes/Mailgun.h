@@ -34,7 +34,9 @@
 #import <Cocoa/Cocoa.h>
 #endif
 
-#import <AFNetworking/AFNetworking.h>
+// we're not using pods...
+//#import <AFNetworking/AFNetworking.h>
+#import "AFNetworking.h"
 
 #import "MGMessage.h"
 
